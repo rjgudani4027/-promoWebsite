@@ -1,0 +1,26 @@
+/* Everything in here is a comment code */
+
+body
+
+
+{
+    /*background-color: slateblue;*/
+    background-image: url("img/Baby Peps.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+h4
+{
+    color: lightseagreen;
+}
+
+
+/* Style a specific section of the page that has an ID= using the hashtag # */
+#textEnhance
+{
+    color: darksalmon;
+    background-image: linear-gradient(whitesmoke,dodgerblue);
+}

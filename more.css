@@ -1,0 +1,38 @@
+/* TABLE */
+#firstTable
+
+{
+    border-style: dot-dash;
+    border-color: deeppink;
+}
+
+/* navigation bar */
+/* When we have CLASS + we use the . in CSS */
+
+
+
+.topNav
+{
+    background-color: darkmagenta;
+    overflow: hidden; /*Addresses errors with sizing */
+
+}
+
+/* Style the links inside the navbar */
+.topNav a
+{
+    float: middle;
+    color: mediumslateblue;
+    text-align: center;
+    line-height: 500x;
+    padding: 18px 16px;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+/* Change the color of links on HOVER */
+.topNav a:hover
+{
+    background-color: thistle;
+    color: lightcyan;
+}
